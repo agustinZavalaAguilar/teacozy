@@ -43,7 +43,7 @@
         text-decoration: underline;        
     }
 
-/* Mission section*/
+/* -------------------------Mission section-----------------------------------*/
 
     .mission {
         background-image: url(../media/img-mission-background.jpg);
@@ -63,3 +63,30 @@
         display: inline;
         width: 100%;
     }
+
+
+    /*-----------------Featured Tea Section-----------------------------*/
+
+    .tea-of-the-month {
+        width: 1000px;   
+        justify-content: center;             
+    }
+
+    .featured-tea {
+        display: inline;
+        text-align: center;
+
+    }
+
+    .photo-gallery {
+       
+        width: 1000px;
+        align-content: space-around;
+
+    }
+
+    .gal-img {
+        width: 300px;
+        height: 200px;
+    }
+
