@@ -104,3 +104,39 @@
        margin: 0 15px;
     }
 
+/*--------------------------------Locations Section-------------------------------*/
+
+    .locations {
+        background-image: url(../media/img-locations-background.jpg);
+        background-size: cover;        
+        height: 500px;
+        width: 1200px;
+        display: flex;
+        justify-content: space-around;
+        }
+
+    .title-and-cards {
+        width: auto;
+        justify-content: center;
+     
+    }
+
+    .title-and-cards h2{
+        text-align: center;
+        margin-bottom: 15px;
+        
+    }
+
+    .cards {
+        display: inline-flex;
+          
+    }
+
+    .right, .center, .left {
+        height: 300px;
+        width: 300px;
+        background-color: black;
+        margin: 0 20px;   
+    }
+
+    
